@@ -56,3 +56,9 @@ node seed/seed.mjs --phase=load --books=5000
 ```
 
 Crea libros por la API hasta llegar a 5 000 y mide 60 búsquedas; el resultado debe ser menor a 300 ms.
+
+Resultado en la prueba del 13 de octubre de 2026 (API y base en Docker, equipo local):
+
+```text
+RNF-1: 5000 books, search p95 = 78 ms, max = 97 ms (limit 300 ms)
+```
