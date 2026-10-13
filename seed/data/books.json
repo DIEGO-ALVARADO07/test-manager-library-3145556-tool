@@ -1,0 +1,248 @@
+[
+  {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "category": "Novela",
+    "total_copies": 4
+  },
+  {
+    "title": "El amor en los tiempos del cólera",
+    "author": "Gabriel García Márquez",
+    "category": "Novela",
+    "total_copies": 2
+  },
+  {
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "category": "Novela",
+    "total_copies": 3
+  },
+  {
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "category": "Novela",
+    "total_copies": 2
+  },
+  {
+    "title": "La ciudad y los perros",
+    "author": "Mario Vargas Llosa",
+    "category": "Novela",
+    "total_copies": 3
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "category": "Novela",
+    "total_copies": 2
+  },
+  {
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "category": "Novela",
+    "total_copies": 3
+  },
+  {
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "category": "Novela",
+    "total_copies": 2
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Ciencia",
+    "total_copies": 2
+  },
+  {
+    "title": "Breve historia del tiempo",
+    "author": "Stephen Hawking",
+    "category": "Ciencia",
+    "total_copies": 3
+  },
+  {
+    "title": "El gen egoísta",
+    "author": "Richard Dawkins",
+    "category": "Ciencia",
+    "total_copies": 4
+  },
+  {
+    "title": "El origen de las especies",
+    "author": "Charles Darwin",
+    "category": "Ciencia",
+    "total_copies": 3
+  },
+  {
+    "title": "Una breve historia de casi todo",
+    "author": "Bill Bryson",
+    "category": "Ciencia",
+    "total_copies": 3
+  },
+  {
+    "title": "El universo elegante",
+    "author": "Brian Greene",
+    "category": "Ciencia",
+    "total_copies": 4
+  },
+  {
+    "title": "Los dragones del Edén",
+    "author": "Carl Sagan",
+    "category": "Ciencia",
+    "total_copies": 2
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "category": "Ciencia",
+    "total_copies": 3
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Tecnología",
+    "total_copies": 3
+  },
+  {
+    "title": "Domain-Driven Design",
+    "author": "Eric Evans",
+    "category": "Tecnología",
+    "total_copies": 4
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "category": "Tecnología",
+    "total_copies": 4
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "category": "Tecnología",
+    "total_copies": 2
+  },
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "category": "Tecnología",
+    "total_copies": 3
+  },
+  {
+    "title": "Patterns of Enterprise Application Architecture",
+    "author": "Martin Fowler",
+    "category": "Tecnología",
+    "total_copies": 4
+  },
+  {
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "category": "Tecnología",
+    "total_copies": 2
+  },
+  {
+    "title": "Working Effectively with Legacy Code",
+    "author": "Michael Feathers",
+    "category": "Tecnología",
+    "total_copies": 2
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "Historia",
+    "total_copies": 3
+  },
+  {
+    "title": "Armas, gérmenes y acero",
+    "author": "Jared Diamond",
+    "category": "Historia",
+    "total_copies": 4
+  },
+  {
+    "title": "Las venas abiertas de América Latina",
+    "author": "Eduardo Galeano",
+    "category": "Historia",
+    "total_copies": 2
+  },
+  {
+    "title": "Historia de dos ciudades",
+    "author": "Charles Dickens",
+    "category": "Historia",
+    "total_copies": 2
+  },
+  {
+    "title": "SPQR",
+    "author": "Mary Beard",
+    "category": "Historia",
+    "total_copies": 3
+  },
+  {
+    "title": "El Mediterráneo",
+    "author": "Fernand Braudel",
+    "category": "Historia",
+    "total_copies": 2
+  },
+  {
+    "title": "Cien años de soledad en la historia",
+    "author": "Varios autores",
+    "category": "Historia",
+    "total_copies": 4
+  },
+  {
+    "title": "La Guerra de los Mil Días",
+    "author": "Charles Bergquist",
+    "category": "Historia",
+    "total_copies": 3
+  },
+  {
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Infantil",
+    "total_copies": 3
+  },
+  {
+    "title": "Alicia en el país de las maravillas",
+    "author": "Lewis Carroll",
+    "category": "Infantil",
+    "total_copies": 4
+  },
+  {
+    "title": "Pinocho",
+    "author": "Carlo Collodi",
+    "category": "Infantil",
+    "total_copies": 3
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "category": "Infantil",
+    "total_copies": 3
+  },
+  {
+    "title": "Charlie y la fábrica de chocolate",
+    "author": "Roald Dahl",
+    "category": "Infantil",
+    "total_copies": 2
+  },
+  {
+    "title": "Platero y yo",
+    "author": "Juan Ramón Jiménez",
+    "category": "Infantil",
+    "total_copies": 2
+  },
+  {
+    "title": "Los tres cerditos",
+    "author": "Anónimo",
+    "category": "Infantil",
+    "total_copies": 4
+  },
+  {
+    "title": "Caperucita Roja",
+    "author": "Charles Perrault",
+    "category": "Infantil",
+    "total_copies": 2
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "category": "Infantil",
+    "total_copies": 2
+  }
+]
